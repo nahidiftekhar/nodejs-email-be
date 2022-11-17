@@ -4,4 +4,4 @@
 /node_modules
 
 # configurations
-/configs/mail.config.js
+/configs
